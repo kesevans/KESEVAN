@@ -41,7 +41,7 @@
 
 <a href="https://github.com/KESEVAN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesevan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesevan&theme=buefy&layout=compact" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesevan&theme=buefy&layout=compact" />
 </a>
 
 <br/>
