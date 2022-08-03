@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQF6M-NlEkS1aw/profile-displaybackgroundimage-shrink_350_1400/0/1594737035396?e=1628121600&v=beta&t=bjjof1gsKN3ZKVaggddRRFOAKroqreOZpNf6RhvYZi8">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQF6M-NlEkS1aw/profile-displaybackgroundimage-shrink_350_1400/0/1594737035396?e=1665014400&v=beta&t=A9suMZTre7wWBHo2gQN-1RUOUtGJAxaTovjvxnZ6xdU">
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
