@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science at RIT,Bangalore.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🤔 &nbsp; Exploring new technologies everyday.
+- 🎓 &nbsp; Working at Shell as System Engineer
+- 🌱 &nbsp; Learning more about MLOps, Azure and Databricks
 - :bulb:  &nbsp; I'm interested in all things data: **Cloud, Machine Learning , Web Development**
 
 
